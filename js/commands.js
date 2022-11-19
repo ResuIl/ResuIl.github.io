@@ -34,6 +34,14 @@ secret = [
   "<br>"
 ];
 
+donation = [
+  "<br>",
+  '<span class="command">Hey thanks for thinking about donation 💖</span>',
+  '<a href="https://www.paypal.me/resull" target="_blank">Click For Paypal</a>',
+  '<a href="https://www.buymeacoffee.com/resull" target="_blank">Click For Buy Me A Coffe</a>',
+  "<br>"
+];
+
 projects = [
   "<br>",
   "Most projects are private on my Github.",
@@ -45,6 +53,7 @@ help = [
   '<span class="command">whois</span>          Who is Resul?',
   '<span class="command">whoami</span>         Who are you?',
   '<span class="command">video</span>          View YouTube videos',
+  '<span class="command">donate</span>         Donation Link',
   '<span class="command">social</span>         Display social networks',
   '<span class="command">secret</span>         Find the password',
   '<span class="command">projects</span>       View coding projects',

@@ -142,6 +142,9 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab("https://github.com/forrestknight/");
       break;
+    case "donate":
+      loopLines(donation, "color2 margin", 80);
+      break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;
