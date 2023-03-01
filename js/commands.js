@@ -6,7 +6,7 @@ var github = "https://github.com/ResuIl/";
 whois = [
   "<br>",
   "Hey, I'm Resul!👋",
-  "I am 16 years old.",
+  "I am 17 years old.",
   "I am trying to improve myself in software programming. Coding is a piece of cake. 😊",
   "I am student at StepIT Academy and My First Professional Teacher is <b>Tural</b> helping me improve my experience.",
   "Don't forget using 2FA 😉",
